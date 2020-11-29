@@ -1,0 +1,2 @@
+rootProject.name='Light video Player'
+include ':app'
